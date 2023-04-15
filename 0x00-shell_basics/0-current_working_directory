@@ -1,4 +1,2 @@
 #!/bin/bash
-pwdroot@d25634c5838b:/alx-system_engineering-devops/0x00-shell_basics#ls
-
-
+pwd
